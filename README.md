@@ -1,2 +1,2 @@
-# Coursera-Wed-Dev
-Wed Dev Solutions Use
+# Coursera-Web-Dev
+Web Dev Solutions Use
